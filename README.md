@@ -4,11 +4,11 @@ Simple NFT Preview Card Component from Frontend Mentor
 
 # Frontend Mentor - NFT Preview Card component solution
 
-This is a solution to the [NFT preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
+This is a solution to the [NFT preview card challenge on Frontend Mentor].
 
 ## Table of contents
 
-- [Links](#https://hombreombre.github.io/interactive-rating-component---Frontend-Mentor/)
+- [Links](#https://hombreombre.github.io/nft-preview-card-component---frontend-mentor/)
 - [My process](#my-process)
 - [Built with](#HTML & CSS)
 - [Author](#HombreOmbre)
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://hombreombre.github.io/interactive-rating-component---Frontend-Mentor/]
+- Solution URL: [https://hombreombre.github.io/nft-preview-card-component---frontend-mentor/]
 
 ### Built with
 
